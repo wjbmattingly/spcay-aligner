@@ -7,7 +7,7 @@ The `spacy_aligner` is a custom spaCy component designed to connect entities in 
 To install `spacy_aligner`, you will need Python 3.7 or newer. You can install this package directly from PyPI (once uploaded) or through the repository if it is hosted on a site like GitHub.
 
 ```bash
-pip install spacy_aligner
+pip install spacy-aligner
 ```
 
 Or, if you have the source code:
